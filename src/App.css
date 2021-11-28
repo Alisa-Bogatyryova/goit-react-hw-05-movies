@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: wheat;
+  color: black;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  font-style: normal;
+  line-height: calc(16 / 12);
+  overflow-x: hidden;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+
+.opacity {
+  opacity: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
