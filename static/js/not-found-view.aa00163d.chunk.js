@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-default"]=this["webpackJsonpreact-default"]||[]).push([[7],{111:function(t,e,r){"use strict";r.r(e),r.d(e,"default",(function(){return a}));var n=r(53),c=r(2);function a(){return Object(c.jsxs)("main",{role:"alert",children:[Object(c.jsx)("img",{src:n.a,width:"650",alt:"Error"}),Object(c.jsx)("h1",{children:"Page not found \ud83d\ude28"})]})}},53:function(t,e,r){"use strict";e.a=r.p+"static/media/error.6ef12178.png"}}]);
+//# sourceMappingURL=not-found-view.aa00163d.chunk.js.map
