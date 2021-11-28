@@ -10,9 +10,9 @@
     "home-view.css": "/goit-react-hw-05-movies/static/css/home-view.c4174ae2.chunk.css",
     "home-view.js": "/goit-react-hw-05-movies/static/js/home-view.0306634e.chunk.js",
     "home-view.js.map": "/goit-react-hw-05-movies/static/js/home-view.0306634e.chunk.js.map",
-    "main.css": "/goit-react-hw-05-movies/static/css/main.649280e6.chunk.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.80364235.chunk.js",
-    "main.js.map": "/goit-react-hw-05-movies/static/js/main.80364235.chunk.js.map",
+    "main.css": "/goit-react-hw-05-movies/static/css/main.c4cff097.chunk.css",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.b43c4bcf.chunk.js",
+    "main.js.map": "/goit-react-hw-05-movies/static/js/main.b43c4bcf.chunk.js.map",
     "movies-details-view.css": "/goit-react-hw-05-movies/static/css/movies-details-view.d01b24a9.chunk.css",
     "movies-details-view.js": "/goit-react-hw-05-movies/static/js/movies-details-view.d19153ab.chunk.js",
     "movies-details-view.js.map": "/goit-react-hw-05-movies/static/js/movies-details-view.d19153ab.chunk.js.map",
@@ -33,7 +33,7 @@
     "static/css/10.e57484aa.chunk.css.map": "/goit-react-hw-05-movies/static/css/10.e57484aa.chunk.css.map",
     "static/css/cast-subview.b1e7c395.chunk.css.map": "/goit-react-hw-05-movies/static/css/cast-subview.b1e7c395.chunk.css.map",
     "static/css/home-view.c4174ae2.chunk.css.map": "/goit-react-hw-05-movies/static/css/home-view.c4174ae2.chunk.css.map",
-    "static/css/main.649280e6.chunk.css.map": "/goit-react-hw-05-movies/static/css/main.649280e6.chunk.css.map",
+    "static/css/main.c4cff097.chunk.css.map": "/goit-react-hw-05-movies/static/css/main.c4cff097.chunk.css.map",
     "static/css/movies-details-view.d01b24a9.chunk.css.map": "/goit-react-hw-05-movies/static/css/movies-details-view.d01b24a9.chunk.css.map",
     "static/css/movies-view.4dd9650c.chunk.css.map": "/goit-react-hw-05-movies/static/css/movies-view.4dd9650c.chunk.css.map",
     "static/css/reviews-subview.03ec3518.chunk.css.map": "/goit-react-hw-05-movies/static/css/reviews-subview.03ec3518.chunk.css.map",
@@ -45,7 +45,7 @@
     "static/js/runtime-main.142fe243.js",
     "static/css/10.e57484aa.chunk.css",
     "static/js/10.4ff8547e.chunk.js",
-    "static/css/main.649280e6.chunk.css",
-    "static/js/main.80364235.chunk.js"
+    "static/css/main.c4cff097.chunk.css",
+    "static/js/main.b43c4bcf.chunk.js"
   ]
 }
