@@ -1,20 +1,17 @@
-import SearchBar from 'components/SearchBar/SearchBar';
 import { NavLink } from 'react-router-dom';
 import s from './Header.module.css';
 
 const Header = () => (
     <header>
   <nav className={s.nav}>
-    <NavLink exact to="/" className={s.link} activeClassName={s.activeLink}>
+      <NavLink exact to="/" className={({ isActive })=> (isActive? "active" : "link")} >
       Home
     </NavLink>
 
-    <NavLink to="/movies" className={s.link} activeClassName={s.activeLink}>
+    <NavLink to="/movies" className={({ isActive })=> (isActive? "active" : "link")}>
       Movies
     </NavLink>
     </nav>
-    
-    <SearchBar></SearchBar>
       </header>
 );
 

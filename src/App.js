@@ -40,21 +40,21 @@ function App() {
 
       <Suspense fallback={<LoaderComponent />}>
         <Routes>
-          <Route path="/" exact>
-            <HomePage />
-          </Route>
+          <Route path="/" exact
+            element ={<HomePage />} />
+        
 
-          <Route path="/movies" exact>
-            <MoviesPage />
-          </Route>
+          <Route path="/movies" exact
+            element ={<MoviesPage />} />
+          
 
-          <Route path="/movies/:slug">
-            <MovieDetailsPage />
-          </Route>
+          <Route path="/movies/:slug"
+            element ={<MovieDetailsPage />} />
+         
 
-          <Route>
-            <NotFoundView />
-          </Route>
+          <Route
+            element ={<NotFoundView />} />
+          
         </Routes>
       </Suspense>
 

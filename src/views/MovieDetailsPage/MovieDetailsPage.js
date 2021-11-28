@@ -93,8 +93,7 @@ function MovieDetailsPage() {
                   pathname: `${url}/cast`,
                   state: { from: location?.state?.from ?? '/' },
                 }}
-                className={s.link}
-                activeClassName={s.activeLink}
+                className={({ isActive })=> (isActive? "activeLink" : "link")}
               >
                 Cast
               </NavLink>
@@ -105,8 +104,7 @@ function MovieDetailsPage() {
                   pathname: `${url}/reviews`,
                   state: { from: location?.state?.from ?? '/' },
                 }}
-                className={s.link}
-                activeClassName={s.activeLink}
+                className={({ isActive })=> (isActive? "activeLink" : "link")}
               >
                 Reviews
               </NavLink>
